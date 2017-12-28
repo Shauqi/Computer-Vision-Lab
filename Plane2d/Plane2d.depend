@@ -1,21 +1,8 @@
 # depslib dependency file v1.0
-1510387768 source:d:\computer-vision-lab\3dobj\main.cpp
-	<GL/glut.h>
-	<math.h>
-
-1505176992 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
-	"freeglut_std.h"
-
-1505176990 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+1508068191 source:d:\computer-vision-lab\plane2d\main.cpp
 	<windows.h>
-	<EGL/egl.h>
-	<GLES/gl.h>
-	<GLES2/gl2.h>
-	<OpenGL/gl.h>
-	<OpenGL/glu.h>
-	<GL/gl.h>
-	<GL/glu.h>
-	<stdlib.h>
+	<GL/glut.h>
+	<bits/stdc++.h>
 
 1301111162 c:\program files (x86)\codeblocks\mingw\include\windows.h
 	<winresrc.h>
@@ -221,12 +208,23 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
+1505176992 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1505176990 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
 
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
-	<_mingw.h>
 

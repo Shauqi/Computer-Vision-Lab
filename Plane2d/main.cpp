@@ -150,6 +150,8 @@ void drawWheel(float cx, float cy, float r, int num_segments)
     }
     glEnd();
 }
+
+
 void drawBody()
 {
     // Head
